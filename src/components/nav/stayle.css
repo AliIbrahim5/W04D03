@@ -1,0 +1,15 @@
+.list-ul{
+
+    display: flex;
+    justify-content: space-around;  
+   list-style: none;
+  
+
+}
+.link-stayle{
+
+    
+   text-decoration: none;
+    
+
+}
