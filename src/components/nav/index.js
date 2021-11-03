@@ -1,5 +1,5 @@
 
-import { Route,Link} from "react-router-dom"
+import {Link} from "react-router-dom"
 import React from 'react'
 import "./stayle.css"
 

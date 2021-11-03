@@ -36,7 +36,7 @@ console.log(id);
             
           <div className="cardimage" >
             <h1>{item.name}</h1>
-            <img src={item.images.small} onClick={() => cihing(item.id)} />
+            <img src={item.images.small} alt="" onClick={() => cihing(item.id)} />
           </div>
         );
       })}
